@@ -1,6 +1,8 @@
 .venv
 .env
 faq.db*
-*.db
+__pychache__/
+*.ipynb_checkpoints
+*.db*
 *.db-shm
 *.db.wal
